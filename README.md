@@ -45,7 +45,7 @@
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Longxiaoze&theme=react&border=61dafb&hide_border=true" alt="Longxiaoze" />
     </a>
     <a href="https://github.com/Longxiaoze/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Longxiaozea&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Longxiaoze&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
