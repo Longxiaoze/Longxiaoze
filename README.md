@@ -24,7 +24,6 @@
   📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:longxiaoze666@gmail.com)<a href="mailto: longxiaoze666@gmail.com">longxiaoze666@gmail.com</a>
 </p>
 
-<hr>
 ## 💡 Goals for 2022:
   - 1) JLPT N2.
   - 2) Learn the basics of NERF.
@@ -36,6 +35,8 @@
   - 3) ros+moveit(just use)
   - 4) V-slam (orbslam2+orbslam3)
   - 5) image anomaly detection
+<hr>
+
 
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
