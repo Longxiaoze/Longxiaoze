@@ -21,7 +21,7 @@
 
   
   <br>
-  📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:longxiaoze666@gmail.com)<a href="mailto: longxiaoze666@gmail.com">longxiaoze666@gmail.com</a>
+  📫 How to reach me: <a href="mailto: longxiaoze666@gmail.com">longxiaoze666@gmail.com</a>
 </p>
 
 ## 💡 Goals for 2022:
