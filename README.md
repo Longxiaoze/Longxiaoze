@@ -9,7 +9,7 @@
   Hi, I'm Longxiaoze, a computer version student.
   <br>
   <br>
-  🎓 I graduated from Chang'an University in China.
+  🎓 I graduated from Chang'an University in China.(211)
   <br>
   💻 I love writing code and learn anythings about it
   <br>
