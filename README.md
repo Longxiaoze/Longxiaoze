@@ -20,20 +20,17 @@
   💬 Ask me about <a href="https://github.com/Longxiaoze/Longxiaoze/issues" title="Issues">Here</a>
   <br>
   💡 Goals for 2022:
-  - JLPT N2.
-  - Learn the basics of NERF.
-  - Become skilled in C++.
-  - Write my first slam based on orb-slam.
+  1) JLPT N2.
+  2) Learn the basics of NERF.
+  3) Become skilled in C++.
+  4) Write my first slam based on orb-slam.
   <br>
-  🛠 Interested in:
-  - Desktop, mobile, games, designer.
-    <br>
   🛠 Now have learned :
-  - image object detection
-  - 3D mono object detection
-  - ros+moveit(just use)
-  - V-slam (orbslam2+orbslam3)
-  - image anomaly detection
+  1) image object detection
+  2) 3D mono object detection
+  3) ros+moveit(just use)
+  4) V-slam (orbslam2+orbslam3)
+  5) image anomaly detection
   
   <br>
   📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:longxiaoze666@gmail.com)<a href="mailto: longxiaoze666@gmail.com">longxiaoze666@gmail.com</a>
