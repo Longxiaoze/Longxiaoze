@@ -81,7 +81,6 @@
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Longxiaoze&show_icons=true&theme=radical)
 
 <h4 align="center"><a href=https://github.com/Longxiaoze?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
