@@ -32,15 +32,14 @@
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
-
-  <code><img title="C++" height="25" src="https://github.com/Longxiaoze/Longxiaoze/blob/main/imgs/cpp.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/Longxiaoze/Longxiaoze/blob/main/imgs/python-original.svg"></code>
-  <code><img title="github" height="25" src="https://github.com/Longxiaoze/Longxiaoze/blob/main/imgs/30_github.c0a4dde53e.png"></code>
-  <code><img title="vscode" height="25" src="https://github.com/Longxiaoze/Longxiaoze/blob/main/imgs/vscode.png"></code>
-  <code><img title="pytorch" height="25" src="https://github.com/Longxiaoze/Longxiaoze/blob/main/imgs/pytorch.jpeg"></code>
-  <code><img title="tensorflow" height="25" src="https://github.com/Longxiaoze/Longxiaoze/blob/main/imgs/tensorflow.jpg"></code>
-  <code><img title="ros" height="25" src="https://github.com/Longxiaoze/Longxiaoze/blob/main/imgs/ros_org.png"></code>
-  <code><img title="moveit" height="25" src="https://github.com/Longxiaoze/Longxiaoze/blob/main/imgs/moviet.png"></code>
+  <code><img title="C++" height="35" src="https://github.com/Longxiaoze/Longxiaoze/blob/main/imgs/cpp.svg"></code>
+  <code><img title="Python" height="35" src="https://github.com/Longxiaoze/Longxiaoze/blob/main/imgs/python-original.svg"></code>
+  <code><img title="github" height="35" src="https://github.com/Longxiaoze/Longxiaoze/blob/main/imgs/30_github.c0a4dde53e.png"></code>
+  <code><img title="vscode" height="35" src="https://github.com/Longxiaoze/Longxiaoze/blob/main/imgs/vscode.png"></code>
+  <code><img title="pytorch" height="35" src="https://github.com/Longxiaoze/Longxiaoze/blob/main/imgs/pytorch.jpeg"></code>
+  <code><img title="tensorflow" height="35" src="https://github.com/Longxiaoze/Longxiaoze/blob/main/imgs/tensorflow.jpg"></code>
+  <code><img title="ros" height="35" src="https://github.com/Longxiaoze/Longxiaoze/blob/main/imgs/ros_org.png"></code>
+  <code><img title="moveit" height="35" src="https://github.com/Longxiaoze/Longxiaoze/blob/main/imgs/moviet.png"></code>
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
