@@ -33,9 +33,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Longxiaoze&show_icons=true&theme=radical)
 
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Longxiaoze&repo=VSLAM)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Longxiaoze&repo=Point_cloud)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Longxiaoze&repo=YOLOv5_and_pointnet_for_object_detection_on_kitti)](https://github.com/anuraghazra/github-readme-stats)
