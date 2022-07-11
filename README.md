@@ -1,14 +1,9 @@
-<h3 align="center">Hello there, I'm Longxiaoze 👋</h3>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Longxiaoze....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
-</h5>
 <br>
 <p align="center">
   Hi, I'm Longxiaoze, a computer version student.
@@ -18,13 +13,30 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  🔬 I’m currently studying Japanese in Tokyo, and looking for a part-time job in Tokyo.
+  🔬 I’m currently studying Japanese in Tokyo World Japanese School, and looking for a part-time job in Tokyo.
   <br>
-  📚 I’m currently learning C++, NERF and V-SLAM.
+  📚 I’m currently learning C++, unity, NERF and V-SLAM.
   <br>
   💬 Ask me about <a href="https://github.com/Longxiaoze/Longxiaoze/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: longxiaoze666@gmail.com">longxiaoze666@gmail.com</a>
+  💡 Goals for 2022:
+  - JLPT N2.
+  - Learn the basics of NERF.
+  - Become skilled in C++.
+  - Write my first slam based on orb-slam.
+  <br>
+  🛠 Interested in:
+  - Desktop, mobile, games, designer.
+    <br>
+  🛠 Now have learned :
+  - image object detection
+  - 3D mono object detection
+  - ros+moveit(just use)
+  - V-slam (orbslam2+orbslam3)
+  - image anomaly detection
+  
+  <br>
+  📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:longxiaoze666@gmail.com)<a href="mailto: longxiaoze666@gmail.com">longxiaoze666@gmail.com</a>
 </p>
 
 <hr>
