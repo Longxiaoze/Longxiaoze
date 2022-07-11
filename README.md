@@ -18,25 +18,25 @@
   📚 I’m currently learning C++, unity, NERF and V-SLAM.
   <br>
   💬 Ask me about <a href="https://github.com/Longxiaoze/Longxiaoze/issues" title="Issues">Here</a>
-  <br>
-  💡 Goals for 2022:
-  1) JLPT N2.
-  2) Learn the basics of NERF.
-  3) Become skilled in C++.
-  4) Write my first slam based on orb-slam.
-  <br>
-  🛠 Now have learned :
-  1) image object detection
-  2) 3D mono object detection
-  3) ros+moveit(just use)
-  4) V-slam (orbslam2+orbslam3)
-  5) image anomaly detection
+
   
   <br>
   📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:longxiaoze666@gmail.com)<a href="mailto: longxiaoze666@gmail.com">longxiaoze666@gmail.com</a>
 </p>
 
 <hr>
+## 💡 Goals for 2022:
+  - 1) JLPT N2.
+  - 2) Learn the basics of NERF.
+  - 3) Become skilled in C++.
+  - 4) Write my first slam based on orb-slam.
+## 🛠 Now have learned :
+  - 1) image object detection
+  - 2) 3D mono object detection
+  - 3) ros+moveit(just use)
+  - 4) V-slam (orbslam2+orbslam3)
+  - 5) image anomaly detection
+
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
