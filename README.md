@@ -30,16 +30,16 @@
   <code><img title="Python" height="25" src="https://github.com/Longxiaoze/Longxiaoze/blob/main/imgs/python-original.svg"></code>
 </p>
 
-<hr>
-
-<a href="https://github.com/Longxiaoze/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=Longxiaoze&show_icons=true&theme=gotham"></a>
-
-<hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Longxiaoze&show_icons=true&theme=radical)
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h4 align="center"><a href=https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
 <p align = "center">
