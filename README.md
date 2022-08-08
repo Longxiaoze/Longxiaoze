@@ -13,7 +13,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  🔬 I’m currently studying Japanese in Tokyo World Japanese School, and looking for a part-time job in Tokyo.
+  🔬 I’m currently studying Japanese in Tokyo World Japanese School.
   <br>
   📚 I’m currently learning C++, unity, NERF and V-SLAM.
   <br>
