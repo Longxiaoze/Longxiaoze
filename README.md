@@ -24,10 +24,10 @@
   📫 How to reach me: <a href="mailto: longxiaoze666@gmail.com">longxiaoze666@gmail.com</a>
 </p>
 
-## 💡 Goals for 2022:
-  - 1) JLPT N2.
+## 💡 Goals for 2023:
+  - 1) JLPT N2 (before July)....
   - 2) Learn the basics of NERF.
-  - 3) Become skilled in C++.
+  - 3) Become skilled in C++. BY (doing leetcode)[https://github.com/Longxiaoze/DataStructure_leetcode] and orbslam2/orbslam3 code.
   - 4) Write my first slam based on orb-slam.
 ## 🛠 Now have learned :
   - 1) image object detection
@@ -35,6 +35,8 @@
   - 3) ros+moveit(just use)
   - 4) V-slam (orbslam2+orbslam3)
   - 5) image anomaly detection
+  - 6) Learn the basics of NERF.
+  - 7) Learn the basics of C++.
 <hr>
 
 
