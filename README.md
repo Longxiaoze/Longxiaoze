@@ -27,7 +27,7 @@
 ## 💡 Goals for 2023:
   - 1) JLPT N2 (before July)....
   - 2) Learn the basics of NERF.
-  - 3) Become skilled in C++. BY (doing leetcode)[https://github.com/Longxiaoze/DataStructure_leetcode] and orbslam2/orbslam3 code.
+  - 3) Become skilled in C++. BY [doing leetcode](https://github.com/Longxiaoze/DataStructure_leetcode) and orbslam2/orbslam3 code.
   - 4) Write my first slam based on orb-slam.
 ## 🛠 Now have learned :
   - 1) image object detection
