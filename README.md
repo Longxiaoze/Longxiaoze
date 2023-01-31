@@ -6,17 +6,18 @@
 
 <br>
 <p align="center">
-  Hi, I'm Longxiaoze, a computer version student.
+  Hi, I'm Longxiaoze, a computer vision student.
   <br>
   <br>
   🎓 I graduated from Chang'an University in China.(211)
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and learn anythings about it.
   <br>
   🔬 I’m currently studying Japanese in Tokyo World Japanese School.
   <br>
-  📚 I’m currently learning C++, unity, NERF and V-SLAM.
+  📚 I’m currently learning C++, unity, NERF and V-SLAM. I bought a Nreal Light/x and a PICO 4, and I want to do something fun on them.
   <br>
+
   💬 Ask me about <a href="https://github.com/Longxiaoze/Longxiaoze/issues" title="Issues">Here</a>
 
   
