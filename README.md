@@ -17,7 +17,7 @@
   <br>
   📚 I’m currently learning C++, NERF, 3D avatar and VI-slam.
   <br>
-  I bought a Nreal Light/x and a PICO 4, and I want to do something fun on them.
+  I bought a Nreal Light/x , a PICO 4 and a realsense D435i and I want to do something fun on them.
   <br>
 
   💬 Ask me about <a href="https://github.com/Longxiaoze/Longxiaoze/issues" title="Issues">Here</a>
