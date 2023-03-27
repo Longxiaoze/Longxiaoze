@@ -15,7 +15,7 @@
   <br>
   🔬 I’m currently studying Japanese in Tokyo World Japanese School.
   <br>
-  📚 I’m currently learning C++, unity, NERF and V-SLAM.
+  📚 I’m currently learning C++, NERF, 3D avatar and VI-slam.
   <br>
   I bought a Nreal Light/x and a PICO 4, and I want to do something fun on them.
   <br>
