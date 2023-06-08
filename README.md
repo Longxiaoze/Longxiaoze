@@ -27,7 +27,11 @@
   📫 How to reach me: <a href="mailto: longxiaoze666@gmail.com">longxiaoze666@gmail.com</a>
 </p>
 
-## 💡 Goals for 2023:
+## 💡 Doing Now:
+  - 1) [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes)
+  - 2) [AI_tools](https://github.com/Longxiaoze/AI_tools/tree/main)
+  - 3) AIGC.
+##💡 Goals for 2023:
   - 1) JLPT N2 (before July)....
   - 2) Learn the basics of NERF.
   - 3) Become skilled in C++. BY [doing leetcode](https://github.com/Longxiaoze/DataStructure_leetcode) and orbslam2/orbslam3 code.
