@@ -31,7 +31,7 @@
   - 1) [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes)
   - 2) [AI_tools](https://github.com/Longxiaoze/AI_tools/tree/main)
   - 3) AIGC([qrcode_by_SD](https://github.com/Longxiaoze/AIGC/blob/main/01_Stable_Diffusion_QRcode/01_Stable_Diffusion_QRcode.md)).
-  - ![结果](https://github.com/Longxiaoze/AIGC/blob/main/01_Stable_Diffusion_QRcode/imgs/sd-qrcode.png)
+
 ## 💡 Goals for 2023:
   - 1) JLPT N2 (before July)....
   - 2) Learn the basics of NERF.
