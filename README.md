@@ -8,11 +8,10 @@
 <p align="center">
   Hi, I'm Longxiaoze, a computer vision student.
   <br>
-  <br>
-  💻 I love writing code and learn anythings about it.
-  <br>
+
   🔬 I am currently at the [CNRS-AIST JRL Humanoid Lab](https://unit.aist.go.jp/jrl-22022/en/) at the University of Tsukuba, focusing on visual SLAM research.
-  <br>
+<br>
+<p align="center">
   📚 I’m currently learning 3DGS and VI-slam.
   <br>
 
