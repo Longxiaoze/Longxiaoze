@@ -8,11 +8,11 @@
 <p align="center">
   Hi, I'm Longxiaoze, a computer vision student.
   <br>
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://github.com/Longxiaoze/Longxiaoze/blob/main/imgs/cnrs-aist-jrl.png&center=true&size=30">
-  </a>
-</h1>
+
+  <p align="center">
+  <code><img title="cnrs-aist-jrl" height="35" src="[https://github.com/Longxiaoze/Longxiaoze/blob/main/imgs/cpp.svg](https://github.com/Longxiaoze/Longxiaoze/blob/main/imgs/cnrs-aist-jrl.png)"></code>
+  </p>
+  
   <br>
   💻 I love writing code and learn anythings about it.
   <br>
