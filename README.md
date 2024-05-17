@@ -8,16 +8,17 @@
 <p align="center">
   Hi, I'm Longxiaoze, a computer vision student.
   <br>
-  <br>
-  🎓 I graduated from Chang'an University in China.(211)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Longxiaoze....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
   <br>
   💻 I love writing code and learn anythings about it.
   <br>
-  🔬 I’m currently studying Japanese in Tokyo World Japanese School.
+  🔬 I am currently at the [CNRS-AIST JRL Humanoid Lab](https://unit.aist.go.jp/jrl-22022/en/) at the University of Tsukuba, focusing on visual SLAM research.
   <br>
-  📚 I’m currently learning C++, NERF, 3D avatar and VI-slam.
-  <br>
-  I bought a Nreal Light/x , a PICO 4 and a realsense D435i and I want to do something fun on them.
+  📚 I’m currently learning 3DGS and VI-slam.
   <br>
 
   💬 Ask me about <a href="https://github.com/Longxiaoze/Longxiaoze/issues" title="Issues">Here</a>
@@ -29,21 +30,23 @@
 
 ## Doing Now:
   - 1) [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes)
-  - 2) [AI_tools](https://github.com/Longxiaoze/AI_tools/tree/main)
-  - 3) AIGC([qrcode_by_SD](https://github.com/Longxiaoze/AIGC/blob/main/01_Stable_Diffusion_QRcode/01_Stable_Diffusion_QRcode.md)).
+  - 2) [3DGS-based SLAM](https://github.com/Longxiaoze/3DGS-SLAM-learn)
 
-## 💡 Goals for 2023:
-  - 1) JLPT N2 (before July)....
-  - 2) Learn the basics of NERF.
-  - 3) Become skilled in C++. BY [doing leetcode](https://github.com/Longxiaoze/DataStructure_leetcode) and orbslam2/orbslam3 code.
-  - 4) Write my first slam based on orb-slam.
+
+## 💡 Goals for 2024:
+  - 1) [3DGS-based SLAM](https://github.com/Longxiaoze/3DGS-SLAM-learn)
+  - 2) [Stella vslam](https://github.com/stella-cv/stella_vslam)
+  - 3) Become skilled in C++. BY [doing leetcode](https://github.com/Longxiaoze/DataStructure_leetcode).
+  - 4) [slam_in_autonomous_driving book(gaoxiang)](https://github.com/gaoxiang12/slam_in_autonomous_driving)  and write my [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes)
+
+
 ## 🛠 Now have learned :
   - 1) image object detection
   - 2) 3D mono object detection
   - 3) ros+moveit(just use)
   - 4) V-slam (orbslam2+orbslam3)
   - 5) image anomaly detection
-  - 6) Learn the basics of NERF.
+  - 6) Learn the basics of NERF and 3DGS.
   - 7) Learn the basics of C++.
 <hr>
 
