@@ -27,6 +27,12 @@
   - 2) [3DGS-based SLAM](https://github.com/Longxiaoze/3DGS-SLAM-learn)
 
 
+## 💡 My projects:
+  - 1) [Object Detection on KITTI Autonomous Driving Scenes Based on YOLOv5 and PointNet(Junior year)](https://github.com/Longxiaoze/YOLOv5_and_pointnet_for_object_detection_on_kitti)
+  - 2) [SLAM14 NOTE](https://github.com/Longxiaoze/VSLAM)
+  - 3) [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes).
+    
+
 ## 💡 Goals for 2024:
   - 1) [3DGS-based SLAM](https://github.com/Longxiaoze/3DGS-SLAM-learn)
   - 2) [Stella vslam](https://github.com/stella-cv/stella_vslam)
