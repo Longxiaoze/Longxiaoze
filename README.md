@@ -6,7 +6,7 @@
 
 <br>
 <p align="center">
-  Hi, I'm Longxiaoze, a computer vision student.
+  Hi, I'm Longxiaoze, a computer vision student. And I have a lovely girlfriend.
   <br>
 
   🔬 I am currently at the [CNRS-AIST JRL Humanoid Lab](https://unit.aist.go.jp/jrl-22022/en/) at the University of Tsukuba, focusing on visual SLAM research.
