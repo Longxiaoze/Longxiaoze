@@ -25,6 +25,7 @@
 ## Doing Now:
   - 1) [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes)
   - 2) [3DGS-based SLAM](https://github.com/Longxiaoze/3DGS-SLAM-learn)
+  - 3) [VSLAM+DLfeaturePoint](https://github.com/Longxiaoze/vslam_DL_featurePoints_project)
 
 
 ## 💡 My projects:
