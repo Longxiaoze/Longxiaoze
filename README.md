@@ -23,15 +23,17 @@
 </p>
 
 ## Doing Now:
-  - 1) [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes)
-  - 2) [3DGS-based SLAM](https://github.com/Longxiaoze/3DGS-SLAM-learn)
-  - 3) [VSLAM+DLfeaturePoint](https://github.com/Longxiaoze/vslam_DL_featurePoints_project)
+  - 1) PLP-SLAM(Doing) and using Point clouds as prior maps to relocalization([2D-3D-pose-tracking-update](https://github.com/Longxiaoze/2D-3D-pose-tracking) Done)
+  - 2) [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes)
+  - 3) [3DGS-based SLAM](https://github.com/Longxiaoze/3DGS-SLAM-learn)
+  - 4) [VSLAM+DLfeaturePoint](https://github.com/Longxiaoze/vslam_DL_featurePoints_project)
 
 
 ## 💡 My projects:
   - 1) [Object Detection on KITTI Autonomous Driving Scenes Based on YOLOv5 and PointNet(Junior year)](https://github.com/Longxiaoze/YOLOv5_and_pointnet_for_object_detection_on_kitti)
   - 2) [SLAM14 NOTE](https://github.com/Longxiaoze/VSLAM)
   - 3) [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes).
+  - 4) Using Point clouds as prior maps to relocalization([2D-3D-pose-tracking-update](https://github.com/Longxiaoze/2D-3D-pose-tracking))
     
 
 ## 💡 Goals for 2024:
@@ -49,6 +51,7 @@
   - 5) image anomaly detection
   - 6) Learn the basics of NERF and 3DGS.
   - 7) Learn the basics of C++.
+  - 8) Japanese N2 passed 
 <hr>
 
 
