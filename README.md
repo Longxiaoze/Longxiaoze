@@ -27,6 +27,7 @@
   - 2) [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes)
   - 3) [3DGS-based SLAM](https://github.com/Longxiaoze/3DGS-SLAM-learn)
   - 4) [VSLAM+DLfeaturePoint](https://github.com/Longxiaoze/vslam_DL_featurePoints_project)
+  - 5) Update PLP-SLAM to stella_vslam(stella_plp_vslam)[https://github.com/Longxiaoze/stella_plp_vslam/]
 
 
 ## 💡 My projects:
@@ -34,10 +35,11 @@
   - 2) [SLAM14 NOTE](https://github.com/Longxiaoze/VSLAM)
   - 3) [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes).
   - 4) Using Point clouds as prior maps to relocalization([2D-3D-pose-tracking-update](https://github.com/Longxiaoze/2D-3D-pose-tracking))
+  - 5) Update DSL(Monocular Direct Sparse Localization in a Prior 3D Surfel Map) to ubuntu20+cuda11.8+opencv4. (DSL2)[https://github.com/Longxiaoze/dsl2] 
     
 
-## 💡 Goals for 2024:
-  - 1) [3DGS-based SLAM](https://github.com/Longxiaoze/3DGS-SLAM-learn)
+## 💡 Goals for 2025:
+  - 1) [Update PLP-SLAM to stella_vslam](https://github.com/Longxiaoze/stella_plp_vslam/)
   - 2) [Stella vslam](https://github.com/stella-cv/stella_vslam)
   - 3) Become skilled in C++. BY [doing leetcode](https://github.com/Longxiaoze/DataStructure_leetcode).
   - 4) [slam_in_autonomous_driving book(gaoxiang)](https://github.com/gaoxiang12/slam_in_autonomous_driving)  and write my [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes)
@@ -51,7 +53,8 @@
   - 5) image anomaly detection
   - 6) Learn the basics of NERF and 3DGS.
   - 7) Learn the basics of C++.
-  - 8) Japanese N2 passed 
+  - 8) Japanese N2 passed(2024.07)
+  - 9) Japanese Driver's License(2024.11)
 <hr>
 
 
@@ -72,19 +75,15 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
-  <div align=center>
+  <div align=center style="display: flex; justify-content: center; gap: 20px;">
     <a href="https://github.com/Longxiaoze/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Longxiaoze&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img width=390 src="https://github-readme-stats.vercel.app/api?username=Longxiaoze&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
     <a href="https://github.com/Longxiaoze/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Longxiaoze&hide=c%23,powershell,Mathematica,Python,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Longxiaoze&hide=c%23,powershell,Mathematica,Python,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
-  
 </p>
 
 <hr>
