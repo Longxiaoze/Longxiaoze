@@ -12,7 +12,7 @@
   🔬 I am currently at the [CNRS-AIST JRL Humanoid Lab](https://unit.aist.go.jp/jrl-22022/en/) at the University of Tsukuba, focusing on visual SLAM research.
 <br>
 <p align="center">
-  📚 I’m currently learning 3DGS and VI-slam.
+  📚 I’m currently learning 3DGS, V-slam and Unitree humanoid robots.
   <br>
 
   💬 Ask me about <a href="https://github.com/Longxiaoze/Longxiaoze/issues" title="Issues">Here</a>
@@ -24,10 +24,10 @@
 
 ## Doing Now:
   - 1) PLP-SLAM(Doing) and using Point clouds as prior maps to relocalization([2D-3D-pose-tracking-update](https://github.com/Longxiaoze/2D-3D-pose-tracking) Done)
-  - 2) [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes)
-  - 3) [3DGS-based SLAM](https://github.com/Longxiaoze/3DGS-SLAM-learn)
-  - 4) [VSLAM+DLfeaturePoint](https://github.com/Longxiaoze/vslam_DL_featurePoints_project)
-  - 5) Update PLP-SLAM to stella_vslam(stella_plp_vslam)[https://github.com/Longxiaoze/stella_plp_vslam/]
+  - 2) Update PLP-SLAM to stella_vslam(stella_plp_vslam)[https://github.com/Longxiaoze/stella_plp_vslam/]
+  - 3) 360° panoramic camera projects [insta360X4 publish humble](https://github.com/Longxiaoze/insta360x4_webcam) and [Insta360 ROS driver for insta360 X4](https://github.com/Longxiaoze/insta360_ros_driver)
+  - 4) Unitree G1 learning [shenlan](https://www.shenlanxueyuan.com/my/course/773) and [note](https://github.com/Longxiaoze/unitree_g1_learning)
+  - 5) develop vggt
 
 
 ## 💡 My projects:
@@ -35,13 +35,16 @@
   - 2) [SLAM14 NOTE](https://github.com/Longxiaoze/VSLAM)
   - 3) [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes).
   - 4) Using Point clouds as prior maps to relocalization([2D-3D-pose-tracking-update](https://github.com/Longxiaoze/2D-3D-pose-tracking))
-  - 5) Update DSL(Monocular Direct Sparse Localization in a Prior 3D Surfel Map) to ubuntu20+cuda11.8+opencv4. (DSL2)[https://github.com/Longxiaoze/dsl2] 
+  - 5) Update DSL(Monocular Direct Sparse Localization in a Prior 3D Surfel Map) to ubuntu20+cuda11.8+opencv4. (DSL2)[https://github.com/Longxiaoze/dsl2]
+    6) [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes)
+    7) [3DGS-based SLAM](https://github.com/Longxiaoze/3DGS-SLAM-learn)
+    8) [VSLAM+DLfeaturePoint](https://github.com/Longxiaoze/vslam_DL_featurePoints_project)
     
 
 ## 💡 Goals for 2025:
   - 1) [Update PLP-SLAM to stella_vslam](https://github.com/Longxiaoze/stella_plp_vslam/)
   - 2) [Stella vslam](https://github.com/stella-cv/stella_vslam)
-  - 3) Become skilled in C++. BY [doing leetcode](https://github.com/Longxiaoze/DataStructure_leetcode).
+  - 3) 360 projects
   - 4) [slam_in_autonomous_driving book(gaoxiang)](https://github.com/gaoxiang12/slam_in_autonomous_driving)  and write my [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes)
 
 
