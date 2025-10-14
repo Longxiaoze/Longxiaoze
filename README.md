@@ -26,9 +26,6 @@
   - 1) PLP-SLAM(Doing) and using Point clouds as prior maps to relocalization([2D-3D-pose-tracking-update](https://github.com/Longxiaoze/2D-3D-pose-tracking) Done)
   - 2) Update PLP-SLAM to stella_vslam(stella_plp_vslam)[https://github.com/Longxiaoze/stella_plp_vslam/]
   - 3) 360° panoramic camera projects [insta360X4 publish humble](https://github.com/Longxiaoze/insta360x4_webcam) and [Insta360 ROS driver for insta360 X4](https://github.com/Longxiaoze/insta360_ros_driver)
-  - 4) Unitree G1 learning [shenlan](https://www.shenlanxueyuan.com/my/course/773) and [note](https://github.com/Longxiaoze/unitree_g1_learning)
-  - 5) develop vggt
-
 
 ## 💡 My projects:
   - 1) [Object Detection on KITTI Autonomous Driving Scenes Based on YOLOv5 and PointNet(Junior year)](https://github.com/Longxiaoze/YOLOv5_and_pointnet_for_object_detection_on_kitti)
@@ -39,7 +36,10 @@
   - 6) [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes)
   - 7) [3DGS-based SLAM](https://github.com/Longxiaoze/3DGS-SLAM-learn)
   - 8) [VSLAM+DLfeaturePoint](https://github.com/Longxiaoze/vslam_DL_featurePoints_project)
-    
+  - 9) Vggt-based project (CVPR2025 best paper) (Align the Vggt results from camera scale to the world scale.)
+  - 10) [Fast-livo2 Ros2 humble](https://github.com/Longxiaoze/FAST-LIVO2-Humble) and [handhold supported for Ros2](https://github.com/Longxiaoze/FAST-LIVO2-Humble/blob/main/readme_handhold2.md)
+  - 11) Unitree G1 learning [shenlan](https://www.shenlanxueyuan.com/my/course/773) and [note](https://github.com/Longxiaoze/unitree_g1_learning)
+  - 12) 360°-panoramic-camera-based Gaussian splatting-based dense reconstruction. [PGSR](https://github.com/Longxiaoze/PGSR)
 
 ## 💡 Goals for 2025:
   - 1) [Update PLP-SLAM to stella_vslam](https://github.com/Longxiaoze/stella_plp_vslam/)
