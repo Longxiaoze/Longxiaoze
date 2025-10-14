@@ -23,41 +23,62 @@
 </p>
 
 ## Doing Now:
-  - 1) PLP-SLAM(Doing) and using Point clouds as prior maps to relocalization([2D-3D-pose-tracking-update](https://github.com/Longxiaoze/2D-3D-pose-tracking) Done)
-  - 2) Update PLP-SLAM to stella_vslam(stella_plp_vslam)[https://github.com/Longxiaoze/stella_plp_vslam/]
-  - 3) 360° panoramic camera projects [insta360X4 publish humble](https://github.com/Longxiaoze/insta360x4_webcam) and [Insta360 ROS driver for insta360 X4](https://github.com/Longxiaoze/insta360_ros_driver)
+  - PLP-SLAM(Doing) and using Point clouds as prior maps to relocalization([2D-3D-pose-tracking-update](https://github.com/Longxiaoze/2D-3D-pose-tracking) Done)
+  - Update PLP-SLAM to stella_vslam(stella_plp_vslam)[https://github.com/Longxiaoze/stella_plp_vslam/]
+  - 360° panoramic camera projects [insta360X4 publish humble](https://github.com/Longxiaoze/insta360x4_webcam) and [Insta360 ROS driver for insta360 X4](https://github.com/Longxiaoze/insta360_ros_driver)
 
 ## 💡 My projects:
-  - 1) [Object Detection on KITTI Autonomous Driving Scenes Based on YOLOv5 and PointNet(Junior year)](https://github.com/Longxiaoze/YOLOv5_and_pointnet_for_object_detection_on_kitti)
-  - 2) [SLAM14 NOTE](https://github.com/Longxiaoze/VSLAM)
-  - 3) [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes).
-  - 4) Using Point clouds as prior maps to relocalization([2D-3D-pose-tracking-update](https://github.com/Longxiaoze/2D-3D-pose-tracking))
-  - 5) Update DSL(Monocular Direct Sparse Localization in a Prior 3D Surfel Map) to ubuntu20+cuda11.8+opencv4. (DSL2)[https://github.com/Longxiaoze/dsl2]
-  - 6) [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes)
-  - 7) [3DGS-based SLAM](https://github.com/Longxiaoze/3DGS-SLAM-learn)
-  - 8) [VSLAM+DLfeaturePoint](https://github.com/Longxiaoze/vslam_DL_featurePoints_project)
-  - 9) Vggt-based project (CVPR2025 best paper) (Align the Vggt results from camera scale to the world scale.)
-  - 10) [Fast-livo2 Ros2 humble](https://github.com/Longxiaoze/FAST-LIVO2-Humble) and [handhold supported for Ros2](https://github.com/Longxiaoze/FAST-LIVO2-Humble/blob/main/readme_handhold2.md)
-  - 11) Unitree G1 learning [shenlan](https://www.shenlanxueyuan.com/my/course/773) and [note](https://github.com/Longxiaoze/unitree_g1_learning)
-  - 12) 360°-panoramic-camera-based Gaussian splatting-based dense reconstruction. [PGSR](https://github.com/Longxiaoze/PGSR)
+  - [Object Detection on KITTI Autonomous Driving Scenes Based on YOLOv5 and PointNet(Junior year)](https://github.com/Longxiaoze/YOLOv5_and_pointnet_for_object_detection_on_kitti)
+  - [SLAM14 NOTE](https://github.com/Longxiaoze/VSLAM)
+  - [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes).
+  - Using Point clouds as prior maps to relocalization([2D-3D-pose-tracking-update](https://github.com/Longxiaoze/2D-3D-pose-tracking))
+  - Update DSL(Monocular Direct Sparse Localization in a Prior 3D Surfel Map) to ubuntu20+cuda11.8+opencv4. (DSL2)[https://github.com/Longxiaoze/dsl2]
+  - [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes)
+  - [3DGS-based SLAM](https://github.com/Longxiaoze/3DGS-SLAM-learn)
+  - [VSLAM+DLfeaturePoint](https://github.com/Longxiaoze/vslam_DL_featurePoints_project)
+  - Vggt-based project (CVPR2025 best paper) (Align the Vggt results from camera scale to the world scale.)
+  - [Fast-livo2 Ros2 humble](https://github.com/Longxiaoze/FAST-LIVO2-Humble) and [handhold supported for Ros2](https://github.com/Longxiaoze/FAST-LIVO2-Humble/blob/main/readme_handhold2.md)
+  - Unitree G1 learning [shenlan](https://www.shenlanxueyuan.com/my/course/773) and [note](https://github.com/Longxiaoze/unitree_g1_learning)
+  - 360°-panoramic-camera-based Gaussian splatting-based dense reconstruction. [PGSR](https://github.com/Longxiaoze/PGSR)
 
 ## 💡 Goals for 2025:
-  - 1) [Update PLP-SLAM to stella_vslam](https://github.com/Longxiaoze/stella_plp_vslam/)
-  - 2) [Stella vslam](https://github.com/stella-cv/stella_vslam)
-  - 3) 360 projects
-  - 4) [slam_in_autonomous_driving book(gaoxiang)](https://github.com/gaoxiang12/slam_in_autonomous_driving)  and write my [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes)
+  - [Update PLP-SLAM to stella_vslam](https://github.com/Longxiaoze/stella_plp_vslam/)
+  - [Stella vslam](https://github.com/stella-cv/stella_vslam)
+  - 360 projects
+  - [slam_in_autonomous_driving book(gaoxiang)](https://github.com/gaoxiang12/slam_in_autonomous_driving)  and write my [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes)
+
+## 🛠 Internship :
+- **[TechShare Co., Ltd.](https://techshare.co.jp/)**（2025.10.2 – now） — *Robots Perception (Mobile robots + Humanoid robots)*  
+  - Development of mobile robots based on 360° panoramic cameras  
+  - LVI-SLAM (LiDAR-Visual-Inertial SLAM): Development of the Fast-LIVO2 ROS2 Humble version  
+
+- **[DJI JAPAN Co., Ltd.](https://www.dji.com/jp)**（2025.9.2 – 2025.9.31） — *Camera System Development and Optimization*  
+  - Optimized camera system compilation speed (by over 40%)  
+  - Developed functionality for specific scripts  
+
+- **[Turing Inc.](https://tur.ing/)**（2025.4.2 – 2025.6.27） — *Autonomous Driving*  
+  - VGGT-based real-world-scale monocular camera estimation and simulated LiDAR point-cloud generation  
+  - LiDAR and monocular 3D object detection + localization techniques based on Visual SLAM / COLMAP  
+
+- **[VRC Inc.](https://www.vrcjp.com/en/index.html)**（2022.8.3 – 2023.4.3） — *Human 3D Reconstruction*  
+  - Operation of human 3D avatar algorithms  
+  - Optimization of 3D reconstruction algorithms  
+
+- **[DeepGlint Information Technologies Co., Ltd.](https://www.deepglint.com/)**（2021.11.15 – 2022.4.15） — *AI Computer Vision*  
+  - Object detection (mmDetection), image unsupervised anomaly detection  
+  - Assisted in developing intelligent cars (ROS/V-SLAM) and robot arms (MoveIt)  
 
 
 ## 🛠 Now have learned :
-  - 1) image object detection
-  - 2) 3D mono object detection
-  - 3) ros+moveit(just use)
-  - 4) V-slam (orbslam2+orbslam3)
-  - 5) image anomaly detection
-  - 6) Learn the basics of NERF and 3DGS.
-  - 7) Learn the basics of C++.
-  - 8) Japanese N2 passed(2024.07)
-  - 9) Japanese Driver's License(2024.11)
+  - image object detection
+  - 3D mono object detection
+  - ros+moveit(just use)
+  - V-slam (orbslam2+orbslam3)
+  - image anomaly detection
+  - Learn the basics of NERF and 3DGS.
+  - Learn the basics of C++.
+  - Japanese N2 passed(2024.07)
+  - Japanese Driver's License(2024.11)
 <hr>
 
 
