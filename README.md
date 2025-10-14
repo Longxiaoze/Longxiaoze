@@ -24,7 +24,7 @@
 
 ## Doing Now:
   - PLP-SLAM(Doing) and using Point clouds as prior maps to relocalization([2D-3D-pose-tracking-update](https://github.com/Longxiaoze/2D-3D-pose-tracking) Done)
-  - Update PLP-SLAM to stella_vslam(stella_plp_vslam)[https://github.com/Longxiaoze/stella_plp_vslam/]
+  - Update PLP-SLAM to stella_vslam[stella_plp_vslam](https://github.com/Longxiaoze/stella_plp_vslam/)
   - 360° panoramic camera projects [insta360X4 publish humble](https://github.com/Longxiaoze/insta360x4_webcam) and [Insta360 ROS driver for insta360 X4](https://github.com/Longxiaoze/insta360_ros_driver)
 
 ## 💡 My projects:
