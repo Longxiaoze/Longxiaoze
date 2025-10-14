@@ -32,7 +32,7 @@
   - [SLAM14 NOTE](https://github.com/Longxiaoze/VSLAM)
   - [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes).
   - Using Point clouds as prior maps to relocalization([2D-3D-pose-tracking-update](https://github.com/Longxiaoze/2D-3D-pose-tracking))
-  - Update DSL(Monocular Direct Sparse Localization in a Prior 3D Surfel Map) to ubuntu20+cuda11.8+opencv4. (DSL2)[https://github.com/Longxiaoze/dsl2]
+  - Update DSL(Monocular Direct Sparse Localization in a Prior 3D Surfel Map) to ubuntu20+cuda11.8+opencv4. [DSL2](https://github.com/Longxiaoze/dsl2)
   - [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes)
   - [3DGS-based SLAM](https://github.com/Longxiaoze/3DGS-SLAM-learn)
   - [VSLAM+DLfeaturePoint](https://github.com/Longxiaoze/vslam_DL_featurePoints_project)
