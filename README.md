@@ -114,7 +114,7 @@
 
 <hr>
 
-<h4 align="center"><a href=https://github.com/Longxiaoze?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
+<h4 align="center"><a href=https://github.com/Longxiaoze?tab=repositories title="Show Repositories">🔎 Show More 🔍</a></h4>
 
 <p align = "center">
     ⭐️ From <a href="https://github.com/Longxiaoze/">Longxiaoze</a>
