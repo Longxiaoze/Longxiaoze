@@ -23,23 +23,25 @@
 </p>
 
 ## Doing Now:
-  - PLP-SLAM(Doing) and using Point clouds as prior maps to relocalization([2D-3D-pose-tracking-update](https://github.com/Longxiaoze/2D-3D-pose-tracking) Done)
-  - Update PLP-SLAM to stella_vslam[stella_plp_vslam](https://github.com/Longxiaoze/stella_plp_vslam/)
-  - 360° panoramic camera projects [insta360X4 publish humble](https://github.com/Longxiaoze/insta360x4_webcam) and [Insta360 ROS driver for insta360 X4](https://github.com/Longxiaoze/insta360_ros_driver)
+  - ⭐⭐⭐⭐⭐PLP-SLAM(Doing) and using Point clouds as prior maps to relocalization([2D-3D-pose-tracking-update](https://github.com/Longxiaoze/2D-3D-pose-tracking) Done)
+  - ⭐⭐⭐⭐⭐Update PLP-SLAM to stella_vslam[stella_plp_vslam](https://github.com/Longxiaoze/stella_plp_vslam/)
+  - ⭐⭐⭐⭐360° panoramic camera projects [insta360X4 publish humble](https://github.com/Longxiaoze/insta360x4_webcam) and [Insta360 ROS driver for insta360 X4](https://github.com/Longxiaoze/insta360_ros_driver)
 
 ## 💡 My projects:
-  - [Object Detection on KITTI Autonomous Driving Scenes Based on YOLOv5 and PointNet(Junior year)](https://github.com/Longxiaoze/YOLOv5_and_pointnet_for_object_detection_on_kitti)
-  - [SLAM14 NOTE](https://github.com/Longxiaoze/VSLAM)
-  - [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes).
-  - Using Point clouds as prior maps to relocalization([2D-3D-pose-tracking-update](https://github.com/Longxiaoze/2D-3D-pose-tracking))
-  - Update DSL(Monocular Direct Sparse Localization in a Prior 3D Surfel Map) to ubuntu20+cuda11.8+opencv4. [DSL2](https://github.com/Longxiaoze/dsl2)
-  - [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes)
-  - [3DGS-based SLAM](https://github.com/Longxiaoze/3DGS-SLAM-learn)
-  - [VSLAM+DLfeaturePoint](https://github.com/Longxiaoze/vslam_DL_featurePoints_project)
-  - Vggt-based project (CVPR2025 best paper) (Align the Vggt results from camera scale to the world scale.)
-  - [Fast-livo2 Ros2 humble](https://github.com/Longxiaoze/FAST-LIVO2-Humble) and [handhold supported for Ros2](https://github.com/Longxiaoze/FAST-LIVO2-Humble/blob/main/readme_handhold2.md)
-  - Unitree G1 learning [shenlan](https://www.shenlanxueyuan.com/my/course/773) and [note](https://github.com/Longxiaoze/unitree_g1_learning)
-  - 360°-panoramic-camera-based Gaussian splatting-based dense reconstruction. [PGSR](https://github.com/Longxiaoze/PGSR)
+  - ⭐[Object Detection on KITTI Autonomous Driving Scenes Based on YOLOv5 and PointNet(Junior year)](https://github.com/Longxiaoze/YOLOv5_and_pointnet_for_object_detection_on_kitti)
+  - ⭐⭐[SLAM14 NOTE](https://github.com/Longxiaoze/VSLAM)
+  - ⭐⭐[slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes).
+  - ⭐⭐⭐Using Point clouds as prior maps to relocalization([2D-3D-pose-tracking-update](https://github.com/Longxiaoze/2D-3D-pose-tracking))
+  - ⭐Update DSL(Monocular Direct Sparse Localization in a Prior 3D Surfel Map) to ubuntu20+cuda11.8+opencv4. [DSL2](https://github.com/Longxiaoze/dsl2)
+  - ⭐⭐⭐[slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes)
+  - ⭐⭐[3DGS-based SLAM](https://github.com/Longxiaoze/3DGS-SLAM-learn)
+  - ⭐⭐[VSLAM+DLfeaturePoint](https://github.com/Longxiaoze/vslam_DL_featurePoints_project)
+  - ⭐⭐⭐[Vggt-based project](https://github.com/Longxiaoze/traj_align_tool) (CVPR2025 best paper) (Align the Vggt results from camera scale to the world scale.)
+  - ⭐⭐⭐[Fast-livo2 Ros2 humble](https://github.com/Longxiaoze/FAST-LIVO2-Humble) and [handhold supported for Ros2](https://github.com/Longxiaoze/FAST-LIVO2-Humble/blob/main/readme_handhold2.md)
+  - ⭐⭐⭐⭐Unitree G1 learning [shenlan](https://www.shenlanxueyuan.com/my/course/773) and [note](https://github.com/Longxiaoze/unitree_g1_learning)
+  - ⭐⭐⭐360°-panoramic-camera-based Gaussian splatting-based dense reconstruction. [PGSR](https://github.com/Longxiaoze/PGSR)
+  - ⭐⭐⭐⭐Ubuntu support for [TransparentGS](https://github.com/Longxiaoze/transparentgs) (Gaussian Splatting rendering for pinhole cameras, fisheye cameras, and 360-degree equirectangular projection models).
+  - ⭐⭐⭐[360_IMU2View](https://github.com/Longxiaoze/360_IMU2View): 360-degree image can be cropped into a perspective view using the IMU data from the XREAL One Pro for display.
 
 ## 💡 Goals for 2025:
   - [Update PLP-SLAM to stella_vslam](https://github.com/Longxiaoze/stella_plp_vslam/)
