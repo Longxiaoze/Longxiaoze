@@ -40,8 +40,8 @@
   - ⭐⭐⭐[Fast-livo2 Ros2 humble](https://github.com/Longxiaoze/FAST-LIVO2-Humble) and [handhold supported for Ros2](https://github.com/Longxiaoze/FAST-LIVO2-Humble/blob/main/readme_handhold2.md)
   - ⭐⭐⭐⭐Unitree G1 learning [shenlan](https://www.shenlanxueyuan.com/my/course/773) and [note](https://github.com/Longxiaoze/unitree_g1_learning)
   - ⭐⭐⭐360°-panoramic-camera-based Gaussian splatting-based dense reconstruction. [PGSR](https://github.com/Longxiaoze/PGSR)
-  - ⭐⭐⭐⭐Ubuntu support for [TransparentGS](https://github.com/Longxiaoze/transparentgs) (Gaussian Splatting rendering for pinhole cameras, fisheye cameras, and 360-degree equirectangular projection models).
-  - ⭐⭐⭐[360_IMU2View](https://github.com/Longxiaoze/360_IMU2View): 360-degree image can be cropped into a perspective view using the IMU data from the XREAL One Pro for display.
+  - ⭐⭐⭐⭐Ubuntu support for [TransparentGS](https://github.com/Longxiaoze/transparentgs) (Gaussian Splatting rendering for pinhole, fisheye, and 360-degree equirectangular images).
+  - ⭐⭐⭐[360_IMU2View](https://github.com/Longxiaoze/360_IMU2View): 360-degree image can be cropped into a perspective view using the IMU data from the XREAL One Pro.
 
 ## 💡 Goals for 2025:
   - [Update PLP-SLAM to stella_vslam](https://github.com/Longxiaoze/stella_plp_vslam/)
