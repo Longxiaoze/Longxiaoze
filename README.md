@@ -23,9 +23,8 @@
 </p>
 
 ## Doing Now:
-  - ⭐⭐⭐⭐⭐PLP-SLAM(Doing) and using Point clouds as prior maps to relocalization([2D-3D-pose-tracking-update](https://github.com/Longxiaoze/2D-3D-pose-tracking) Done)
-  - ⭐⭐⭐⭐⭐Update PLP-SLAM to stella_vslam[stella_plp_vslam](https://github.com/Longxiaoze/stella_plp_vslam/)
-  - ⭐⭐⭐⭐360° panoramic camera projects [insta360X4 publish humble](https://github.com/Longxiaoze/insta360x4_webcam) and [Insta360 ROS driver for insta360 X4](https://github.com/Longxiaoze/insta360_ros_driver)
+  - ⭐⭐⭐⭐⭐[360_local_viewer](https://github.com/Longxiaoze/360_local_viewer): remote viewing of the robot using a 360-degree camera
+  - ⭐⭐⭐⭐⭐VLN/VLA
 
 ## 💡 My projects:
   - ⭐[Object Detection on KITTI Autonomous Driving Scenes Based on YOLOv5 and PointNet(Junior year)](https://github.com/Longxiaoze/YOLOv5_and_pointnet_for_object_detection_on_kitti)
@@ -42,12 +41,14 @@
   - ⭐⭐⭐360°-panoramic-camera-based Gaussian splatting-based dense reconstruction. [PGSR](https://github.com/Longxiaoze/PGSR)
   - ⭐⭐⭐⭐Ubuntu support for [TransparentGS](https://github.com/Longxiaoze/transparentgs) (Gaussian Splatting rendering for pinhole, fisheye, and 360-degree equirectangular).
   - ⭐⭐⭐[360_IMU2View](https://github.com/Longxiaoze/360_IMU2View): 360-degree image can be cropped into a perspective view using the IMU data from the XREAL One Pro.
+  - ⭐⭐⭐⭐⭐Update PLP-SLAM to stella_vslam[stella_plp_vslam](https://github.com/Longxiaoze/stella_plp_vslam/)
+  - ⭐⭐⭐⭐360° panoramic camera projects [insta360X4 publish humble](https://github.com/Longxiaoze/insta360x4_webcam) and [Insta360 ROS driver for insta360 X4]
 
-## 💡 Goals for 2025:
-  - [Update PLP-SLAM to stella_vslam](https://github.com/Longxiaoze/stella_plp_vslam/)
-  - [Stella vslam](https://github.com/stella-cv/stella_vslam)
-  - 360 projects
-  - [slam_in_autonomous_driving book(gaoxiang)](https://github.com/gaoxiang12/slam_in_autonomous_driving)  and write my [slam_in_autonomous_driving_notes](https://github.com/Longxiaoze/slam_in_autonomous_driving_notes)
+## 💡 Goals for 2026:
+  - Graduation
+  - vSLAM + Fast-LIVO2
+  - OAK-4P-New development + panoramic camera; the goal is a depth-enabled panoramic camera
+  - Humanoid Robot full-body VLA / quadruped & biped VLN
 
 ## 🛠 Internship :
 - **[TechShare Co., Ltd.](https://techshare.co.jp/)**（2025.10.2 – now） — *Robots Perception (Mobile robots + Humanoid robots)*  
@@ -81,6 +82,7 @@
   - Learn the basics of C++.
   - Japanese N2 passed(2024.07)
   - Japanese Driver's License(2024.11)
+  - panoramic camera
 <hr>
 
 
