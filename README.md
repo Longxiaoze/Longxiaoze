@@ -6,13 +6,13 @@
 
 <br>
 <p align="center">
-  Hi, I'm Longxiaoze, a computer vision student. And I have a lovely girlfriend.
+  Hi, I'm Longxiaoze, a researcher and engineer working on perception for humanoid robots. And I have a lovely girlfriend.
   <br>
 
-  🔬 I am currently at the [CNRS-AIST JRL Humanoid Lab](https://unit.aist.go.jp/jrl-22022/en/) at the University of Tsukuba, focusing on visual SLAM research.
+  🔬 I conducted my master’s research at the [CNRS-AIST JRL (Joint Robotics Laboratory)](https://unit.aist.go.jp/isri/isri-jrl/en/members/member-liu.html) at the University of Tsukuba, with a focus on visual SLAM. My current work centers on perception algorithms for humanoid robots, including SLAM, VLN, and image-based humanoid perception for motion control.
 <br>
 <p align="center">
-  📚 I’m currently learning 3DGS, V-slam and Unitree humanoid robots.
+  📚 I’m currently working on SLAM + VLN + VLA + ...
   <br>
 
   💬 Ask me about <a href="https://github.com/Longxiaoze/Longxiaoze/issues" title="Issues">Here</a>
@@ -23,8 +23,8 @@
 </p>
 
 ## Doing Now:
-  - ⭐⭐⭐⭐⭐[360_local_viewer](https://github.com/Longxiaoze/360_local_viewer): remote viewing of the robot using a 360-degree camera
-  - ⭐⭐⭐⭐⭐VLN/VLA
+  - ⭐⭐⭐⭐⭐ VLN/VLA
+  - ⭐⭐⭐⭐⭐ StellaVSLAM + panoramic camera + IMU
 
 ## 💡 My projects:
   - ⭐[Object Detection on KITTI Autonomous Driving Scenes Based on YOLOv5 and PointNet(Junior year)](https://github.com/Longxiaoze/YOLOv5_and_pointnet_for_object_detection_on_kitti)
@@ -41,11 +41,12 @@
   - ⭐⭐⭐360°-panoramic-camera-based Gaussian splatting-based dense reconstruction. [PGSR](https://github.com/Longxiaoze/PGSR)
   - ⭐⭐⭐⭐Ubuntu support for [TransparentGS](https://github.com/Longxiaoze/transparentgs) (Gaussian Splatting rendering for pinhole, fisheye, and 360-degree equirectangular).
   - ⭐⭐⭐[360_IMU2View](https://github.com/Longxiaoze/360_IMU2View): 360-degree image can be cropped into a perspective view using the IMU data from the XREAL One Pro.
-  - ⭐⭐⭐⭐⭐Update PLP-SLAM to stella_vslam[stella_plp_vslam](https://github.com/Longxiaoze/stella_plp_vslam/)
+  - ⭐⭐⭐⭐⭐Update PLP-SLAM to stella_vslam[stella_plp_vslam](https://github.com/Longxiaoze/stella_plp_vslam/) and update line feature for 360° images
   - ⭐⭐⭐⭐360° panoramic camera projects [insta360X4 publish humble](https://github.com/Longxiaoze/insta360x4_webcam) and [Insta360 ROS driver for insta360 X4]
+  - ⭐⭐⭐⭐⭐[360_local_viewer](https://github.com/Longxiaoze/360_local_viewer): remote viewing of the robot using a 360-degree camera
 
 ## 💡 Goals for 2026:
-  - Graduation
+  - Graduation(Done)
   - vSLAM + Fast-LIVO2
   - OAK-4P-New development + panoramic camera; the goal is a depth-enabled panoramic camera
   - Humanoid Robot full-body VLA / quadruped & biped VLN
