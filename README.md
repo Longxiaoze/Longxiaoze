@@ -103,22 +103,19 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align=center>
-  <div align=center style="display: flex; justify-content: center; gap: 20px;">
-    <a href="https://github.com/Longxiaoze/github-readme-stats" title="Go to Source">
-      <img width=390 src="https://github-readme-stats.vercel.app/api?username=Longxiaoze&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-    <a href="https://github.com/Longxiaoze/github-readme-stats">
-      <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Longxiaoze&hide=c%23,powershell,Mathematica,Python,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
 </p>
 
-<hr>
-
-<h4 align="center"><a href=https://github.com/Longxiaoze?tab=repositories title="Show Repositories">🔎 Show More 🔍</a></h4>
-
-<p align = "center">
-    ⭐️ From <a href="https://github.com/Longxiaoze/">Longxiaoze</a>
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" height="170" alt="Repos per language" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" height="170" alt="Most commit language" />
 </p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" height="170" alt="Stats" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" height="170" alt="Productive time" />
+</p>
+
+<br>
