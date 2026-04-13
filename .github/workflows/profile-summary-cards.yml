@@ -11,12 +11,18 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate github profile summary cards
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: Longxiaoze
+          BRANCH_NAME: main
           UTC_OFFSET: 9
-          THEME: github_dark
+          EXCLUDE: ''
+          AUTO_PUSH: true
