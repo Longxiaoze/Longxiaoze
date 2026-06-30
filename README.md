@@ -23,6 +23,7 @@
 </p>
 
 ## Doing Now:
+  - ⭐⭐⭐⭐⭐ [SONIC (Unitree G1)](https://nvlabs.github.io/GEAR-SONIC/) -- Camera realtime wbc (Done) / Language wbc (Done) / VR robot first viewer (Done) / Gr00t vla (Doing)
   - ⭐⭐⭐⭐⭐ VLN/VLA
   - ⭐⭐⭐⭐⭐ StellaVSLAM + panoramic camera + IMU
 
